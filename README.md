@@ -1,1 +1,3 @@
-Prática de estudos (HTML e CSS)
+Prática de estudos: HTML e CSS, JAVASCRIPT(OU QUALQUER OUTRA TECNOLOGIA)
+
+Meu objetivo é evoluir esta página à medida que aprofundo meu conhecimento em HTML e CSS. Estou empenhado em aprender continuamente e aplicar novos conceitos e técnicas para tornar esta página mais acessível, responsiva e visualmente atraente. Pretendo explorar tanto os fundamentos quanto as práticas avançadas, buscando sempre atualizar-me com as últimas tendências e melhores práticas. Com cada nova habilidade adquirida, pretendo implementar melhorias significativas nesta página, criando uma experiência web cada vez mais impressionante e funcional. Este é um processo de aprendizado contínuo, e estou ansioso para compartilhar meu progresso e contribuições à medida que avanço nessa jornada de desenvolvimento web.
